@@ -40,7 +40,7 @@
 	 <br>
 
 	 <h2>Jaguar</h2>
-	 <img src="‪C:\KamknAV_PE21b\img\jag.jpg">
+	 <img width=350px src="‪C:\KamknAV_PE21b\img\jag.jpg">
  	 <p><b>Area:</b> Africa, Asia</p>
 	 <p><b>Weight:</b> 56-96kg</p>
 	 <p><b>Height:</b> 0.63m-0.76m</p>
